@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>파이썬 2학년</title>
+	</head>
+	<body>
+		<h2>제1장 파이썬으로 데이터를 다운로드</h2>
+		<ol>
+			<li>스크래핑이 뭐지?</li>
+			<li>파이썬을 설치해 보자</li>
+			<li>requests로 액세스해 보자</li>
+		</ol>
+	</body>
+</html>
