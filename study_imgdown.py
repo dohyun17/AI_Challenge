@@ -1,6 +1,6 @@
 import requests
 
-img_url = "http://letscoding.kr/img/image01.jpeg"
+img_url = "http://letscoding.kr/img/image03.jpeg"
 response = requests.get(img_url)
 
 filename = img_url.split("/")[-1]
